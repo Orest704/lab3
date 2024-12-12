@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_rozgirche.jpeg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/rozgirche.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_olika.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\olika.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_lake.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\lake.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_berestechko.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\berestechko.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_photo1.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\photo1.jpg"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_zolochivskyjzamok.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/zolochivskyjzamok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_zamokurch.jpeg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/zamokurch.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_tustan.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/tustan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_kolodyajne.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\kolodyajne.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_castle.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\castle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_zimne.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\zimne.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.lab3.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_grotpryjma.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/grotpryjma.jpg"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_kamyaneczkyjvodospad.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/kamyaneczkyjvodospad.jpg"
+    }
+]
